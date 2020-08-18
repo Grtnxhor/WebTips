@@ -2,7 +2,7 @@
 
 On Netlify, any HTML form can instantly accept submissions—no backend code or infrastructure required. As soon as your form is deployed, you start seeing submissions appear in your Netlify dashboard.
 
-Just add the `netlify` attribute to any form and everything gets wired up automatically. Our bots find your forms by inspecting the HTML of your site before its published.
+Just add the `netlify` attribute to any form and everything gets wired up automatically. Netlify bots find your forms by inspecting the HTML of your site before its published.
 
 
 ![netlify.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1597774404506/bm4MnSAm0.png)
