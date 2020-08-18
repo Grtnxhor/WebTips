@@ -28,3 +28,7 @@ However, by default, the domain will be on Google, with an address like *sites.g
 2. Not really good website for business - not enough customization
 3. Apps only limited to Google apps only. Apps outside Google apps may be inapplicable
 4. The site URL must begin with "sites.google.com/site/" which is to long for a website
+
+# Getting Started
+
+visit *https://sites.google.com* to create your own free Google Site.
