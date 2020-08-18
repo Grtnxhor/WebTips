@@ -32,3 +32,5 @@ However, by default, the domain will be on Google, with an address like *sites.g
 # Getting Started
 
 visit *https://sites.google.com* to create your own free Google Site.
+
+Let me hear your view in the comment section below. 
