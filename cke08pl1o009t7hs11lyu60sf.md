@@ -11,16 +11,15 @@ However, by default, the domain will be on Google, with an address like *sites.g
 # The advantages of Google Sites:
 
 
-- 
-Free
-Fast and easy to edit
-No programming or database skills required
-Ideal for newbie who wants to build a website for the first time
-No software installation required
-Integrated with Google apps
-Creator can access tools anywhere
-Creator has full control on page access and permission
-Function as a basic project manager
+1. Free
+2. Fast and easy to edit
+3. No programming or database skills required
+4. Ideal for newbie who wants to build a website for the first time
+5. No software installation required
+6. Integrated with Google apps
+7. Creator can access tools anywhere
+8. Creator has full control on page access and permission
+9. Function as a basic project manager
 
 
 # The disadvantages of Google Sites:
