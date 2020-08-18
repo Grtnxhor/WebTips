@@ -21,3 +21,13 @@ Integrated with Google apps
 Creator can access tools anywhere
 Creator has full control on page access and permission
 Function as a basic project manager
+
+
+# The disadvantages of Google Sites:
+
+
+- 
+Limited functionality compared to other website builders
+Not really good website for business - not enough customization
+Apps only limited to Google apps only. Apps outside Google apps may be inapplicable
+The site URL must begin with "sites.google.com/site/" which is to long for a website
